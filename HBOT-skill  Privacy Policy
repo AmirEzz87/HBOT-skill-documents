@@ -1,0 +1,118 @@
+
+
+---
+
+# **HBot Alexa Skill – Privacy Policy**
+
+**Last Updated:12/20/2025
+
+This Privacy Policy describes how the **HBot Alexa Skill** (“the Skill”) collects, uses, and protects user information when you enable and use the Skill with Amazon Alexa.
+
+---
+
+## **1. Information We Collect**
+
+The HBot Alexa Skill does **not** collect personal information directly from users.
+
+However, to function correctly, the Skill may receive limited data from Amazon Alexa and the HBot platform, including:
+
+* Alexa user identifier (provided by Amazon, not your name or email)
+* Device control requests (such as turning devices on or off)
+* Smart home device status and identifiers associated with your HBot account
+* Voice command intent information required to perform requested actions
+
+The Skill does **not** collect:
+
+* Names
+* Email addresses
+* Phone numbers
+* Payment information
+* Precise location data
+
+---
+
+## **2. How Information Is Used**
+
+Information received by the Skill is used **only** to:
+
+* Authenticate your HBot account through secure account linking
+* Execute voice commands requested by the user
+* Control supported smart home devices
+* Display live camera streams on Alexa-enabled devices when requested
+* Improve system reliability and performance
+
+All data usage is strictly limited to the core functionality of the Skill.
+
+---
+
+## **3. Data Storage and Retention**
+
+* The HBot Alexa Skill does not store voice recordings.
+* Voice recordings are handled by Amazon Alexa according to Amazon’s privacy policies.
+* Device data and account information are stored securely on HBot servers and retained only as long as required to provide the service.
+
+---
+
+## **4. Data Sharing**
+
+We do **not** sell, rent, or share user data with third parties.
+
+Information is shared only with:
+
+* Amazon Alexa services, as required to process voice commands
+* HBot backend systems, to control and manage smart home devices
+
+No data is shared for advertising or marketing purposes.
+
+---
+
+## **5. Security**
+
+HBot uses industry-standard security measures to protect user data, including:
+
+* Secure account authentication
+* Encrypted communication between Alexa, HBot servers, and connected devices
+* Restricted access to internal systems
+
+Despite best efforts, no system can be guaranteed to be 100% secure.
+
+---
+
+## **6. User Control and Choices**
+
+Users can:
+
+* Disable the HBot Alexa Skill at any time from the Alexa app
+* Unlink their HBot account from Alexa
+* Manage connected devices through the HBot mobile app
+
+Disabling the Skill stops all data exchange between Alexa and HBot.
+
+---
+
+## **7. Children’s Privacy**
+
+The HBot Alexa Skill is **not directed to children under the age of 13** and does not knowingly collect personal information from children.
+
+---
+
+## **8. Third-Party Services**
+
+This Skill relies on Amazon Alexa services. Use of Alexa is governed by Amazon’s own privacy policies, which can be reviewed on Amazon’s official website.
+
+---
+
+## **9. Changes to This Privacy Policy**
+
+We may update this Privacy Policy from time to time. Any changes will be reflected on this page with an updated revision date.
+
+---
+
+## **10. Contact Information**
+
+If you have questions or concerns about this Privacy Policy or the HBot Alexa Skill, please contact:
+
+**Email:** [info@h-bot.tech](mailto:info@h-bot.tech)
+**Website:** [https://h-bot.tech](https://h-bot.tech)
+
+---

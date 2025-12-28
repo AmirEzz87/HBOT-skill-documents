@@ -1,0 +1,111 @@
+Politique de confidentialité de HBot Alexa Skill
+
+Dernière mise à jour : 28/12/2025
+
+La présente politique de confidentialité décrit la manière dont HBot Alexa Skill (« la skill ») collecte, utilise et protège les informations des utilisateurs lorsque vous activez et utilisez la skill avec Amazon Alexa.
+
+1. Informations collectées
+
+HBot Alexa Skill ne collecte aucune information personnelle directement auprès des utilisateurs.
+
+Toutefois, afin de fonctionner correctement, la skill peut recevoir des données limitées provenant d’Amazon Alexa et de la plateforme HBot, notamment :
+
+Identifiant utilisateur Alexa (fourni par Amazon, et non votre nom ou adresse e-mail)
+
+Requêtes de contrôle des appareils (par exemple, allumer ou éteindre des appareils)
+
+État et identifiants des appareils de maison intelligente associés à votre compte HBot
+
+Informations relatives à l’intention des commandes vocales nécessaires à l’exécution des actions demandées
+
+La skill ne collecte pas :
+
+Noms
+
+Adresses e-mail
+
+Numéros de téléphone
+
+Informations de paiement
+
+Données de localisation précises
+
+2. Utilisation des informations
+
+Les informations reçues par la skill sont utilisées uniquement pour :
+
+Authentifier votre compte HBot via un système de liaison de compte sécurisé
+
+Exécuter les commandes vocales demandées par l’utilisateur
+
+Contrôler les appareils de maison intelligente pris en charge
+
+Afficher des flux vidéo en direct des caméras sur des appareils compatibles Alexa, lorsque cela est demandé
+
+Améliorer la fiabilité et les performances du système
+
+Toute utilisation des données est strictement limitée aux fonctionnalités essentielles de la skill.
+
+3. Stockage et conservation des données
+
+HBot Alexa Skill ne stocke pas les enregistrements vocaux.
+
+Les enregistrements vocaux sont traités par Amazon Alexa conformément aux politiques de confidentialité d’Amazon.
+
+Les données des appareils et les informations de compte sont stockées de manière sécurisée sur les serveurs HBot et conservées uniquement pendant la durée nécessaire à la fourniture du service.
+
+4. Partage des données
+
+Nous ne vendons, ne louons et ne partageons aucune donnée utilisateur avec des tiers.
+
+Les informations sont partagées uniquement avec :
+
+Les services Amazon Alexa, lorsque cela est nécessaire pour traiter les commandes vocales
+
+Les systèmes backend de HBot, afin de contrôler et de gérer les appareils de maison intelligente
+
+Aucune donnée n’est partagée à des fins publicitaires ou marketing.
+
+5. Sécurité
+
+HBot met en œuvre des mesures de sécurité conformes aux normes de l’industrie afin de protéger les données des utilisateurs, notamment :
+
+Authentification sécurisée des comptes
+
+Communications chiffrées entre Alexa, les serveurs HBot et les appareils connectés
+
+Accès restreint aux systèmes internes
+
+Malgré tous les efforts déployés, aucun système ne peut être garanti comme étant sécurisé à 100 %.
+
+6. Contrôle et choix des utilisateurs
+
+Les utilisateurs peuvent :
+
+Désactiver HBot Alexa Skill à tout moment depuis l’application Alexa
+
+Dissocier leur compte HBot d’Alexa
+
+Gérer les appareils connectés via l’application mobile HBot
+
+La désactivation de la skill met fin à tout échange de données entre Alexa et HBot.
+
+7. Confidentialité des enfants
+
+HBot Alexa Skill n’est pas destinée aux enfants de moins de 13 ans et ne collecte pas sciemment d’informations personnelles auprès d’enfants.
+
+8. Services tiers
+
+Cette skill repose sur les services Amazon Alexa. L’utilisation d’Alexa est régie par les propres politiques de confidentialité d’Amazon, consultables sur le site officiel d’Amazon.
+
+9. Modifications de la politique de confidentialité
+
+Nous pouvons mettre à jour cette politique de confidentialité de temps à autre. Toute modification sera publiée sur cette page avec une date de révision mise à jour.
+
+10. Informations de contact
+
+Pour toute question ou préoccupation concernant cette politique de confidentialité ou HBot Alexa Skill, veuillez nous contacter :
+
+Email : info@h-bot.tech
+
+Site web : https://h-bot.tech
